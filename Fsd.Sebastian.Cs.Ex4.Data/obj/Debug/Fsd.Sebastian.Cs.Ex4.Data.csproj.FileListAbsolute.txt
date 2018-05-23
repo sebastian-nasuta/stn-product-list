@@ -1,0 +1,11 @@
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.dll
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.pdb
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\obj\Debug\Fsd.Sebastian.Cs.Ex4.Data.csproj.CoreCompileInputs.cache
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\obj\Debug\Fsd.Sebastian.Cs.Ex4.Data.dll
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\obj\Debug\Fsd.Sebastian.Cs.Ex4.Data.pdb
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.dll
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.pdb
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\obj\Debug\Fsd.Sebastian.Cs.Ex4.Data.csprojResolveAssemblyReference.cache
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\obj\Debug\Fsd.Sebastian.Cs.Ex4.Data.csproj.CoreCompileInputs.cache
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\obj\Debug\Fsd.Sebastian.Cs.Ex4.Data.dll
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Data\obj\Debug\Fsd.Sebastian.Cs.Ex4.Data.pdb

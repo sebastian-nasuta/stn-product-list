@@ -1,0 +1,16 @@
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Services.dll
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Services.pdb
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.dll
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.pdb
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.csprojResolveAssemblyReference.cache
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.csproj.CoreCompileInputs.cache
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.dll
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.pdb
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Services.dll
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Services.pdb
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.dll
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\bin\Debug\Fsd.Sebastian.Cs.Ex4.Data.pdb
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.csprojResolveAssemblyReference.cache
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.csproj.CoreCompileInputs.cache
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.dll
+E:\Git_out\product-list-csproject\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs.Ex4.Services\obj\Debug\Fsd.Sebastian.Cs.Ex4.Services.pdb
